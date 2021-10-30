@@ -1,1 +1,1 @@
-This is Mike's basic git project :D
+This is Mike's basic git project
